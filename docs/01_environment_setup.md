@@ -242,11 +242,11 @@ Az első indításkor a Codex megbízhatósági megerősítést kért az aktuál
 
 ![Munkakönyvtár megbízhatósági megerősítése](../images/01_environment_setup/12-codex-trust-directory-prompt.png)
 
-Az ajánlott, emelt jogosultságot igénylő natív Windows-sandbox automatikus kialakítása első alkalommal nem sikerült.
+A Codex első indításakor megjelent az emelt jogosultságot igénylő natív Windows-sandbox beállítási lehetősége.
 
 ![Windows-sandbox beállítási lehetőségek](../images/01_environment_setup/13-codex-windows-sandbox-setup-options.png)
 
-A Windows az alábbi segédprogramot nem találta:
+A labor célja a standard jogosultságú felhasználói környezetben végzett kontrollált tesztelés volt. Az emelt sandbox automatikus beállítása ebben a munkamenetben nem futott le sikeresen, mert a Windows az alábbi segédprogramot nem találta:
 
 ```text
 codex-windows-sandbox-setup.exe
