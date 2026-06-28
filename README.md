@@ -83,6 +83,6 @@ A `codex-hyperv-lab` azt dokumentálja, hogyan alakítottam ki egy izolált, kon
 
 Ezekre épül a következő gyakorlati projekt:
 
-- [multi-rdbms-data-extraction-lab](https://github.com/egyprogramozo/multi-rdbms-data-extraction-lab)
+- [multi-rdbms-data-extraction-lab](https://github.com/gergelyhajdu/multi-rdbms-data-extraction-lab)
 
 A `multi-rdbms-data-extraction-lab` célja több RDBMS-forrásból és egy manuális CSV-forrásból történő kontrollált adatkinyerés dokumentálása. Ebben a Codex nem önálló döntéshozóként, hanem ellenőrzött, izolált fejlesztési segédeszközként jelenik meg.

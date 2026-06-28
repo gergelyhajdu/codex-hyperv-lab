@@ -45,6 +45,6 @@ The `codex-hyperv-lab` repository documents how I set up an isolated and control
 
 The next practical project builds on both of these foundations:
 
-- [multi-rdbms-data-extraction-lab](https://github.com/egyprogramozo/multi-rdbms-data-extraction-lab)
+- [multi-rdbms-data-extraction-lab](https://github.com/gergelyhajdu/multi-rdbms-data-extraction-lab)
 
 The goal of `multi-rdbms-data-extraction-lab` is to document controlled data extraction from multiple RDBMS sources and one manual CSV source. In that workflow, Codex is used as a controlled and isolated development assistant, not as an autonomous decision-making system.
