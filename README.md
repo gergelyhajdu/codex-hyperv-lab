@@ -79,7 +79,7 @@ Ez a labor egy nagyobb portfóliófolyamat egyik előkészítő eleme.
 
 A `codex-hyperv-lab` azt dokumentálja, hogyan alakítottam ki egy izolált, kontrollált Codex CLI tesztkörnyezetet Hyper-V virtuális gépben. A több adatbázis-kezelővel végzett alapozó munka külön repositoryban található:
 
-- [multi-rdbms-comparison-lab](https://github.com/egyprogramozo/multi-rdbms-comparison-lab)
+- [multi-rdbms-comparison-lab](https://github.com/gergelyhajdu/multi-rdbms-comparison-lab)
 
 Ezekre épül a következő gyakorlati projekt:
 

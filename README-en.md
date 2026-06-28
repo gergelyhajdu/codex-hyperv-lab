@@ -41,7 +41,7 @@ This lab is one preparatory part of a larger portfolio workflow.
 
 The `codex-hyperv-lab` repository documents how I set up an isolated and controlled Codex CLI test environment inside a Hyper-V virtual machine. The multi-database foundation work is documented in a separate repository:
 
-- [multi-rdbms-comparison-lab](https://github.com/egyprogramozo/multi-rdbms-comparison-lab)
+- [multi-rdbms-comparison-lab](https://github.com/gergelyhajdu/multi-rdbms-comparison-lab)
 
 The next practical project builds on both of these foundations:
 
